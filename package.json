@@ -1,0 +1,1 @@
+{"description":"Kunang — Lantern of the Night Garden. A firefly arcade game for make.fun best-game-01.","devDependencies":{"playwright":"^1.65.1"},"license":"MIT","name":"kunang-lantern-game","scripts":{"handin":"node main.ts","shots":"node scripts/shots.mjs","start":"node serve.ts"},"type":"module","version":"1.0.0"}
